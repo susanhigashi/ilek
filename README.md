@@ -1,7 +1,8 @@
 # Ilek interview
+## Description
 Search platform referencing wines sold on specialized sites.
 
-# Work on this repos
+## Local setup
 
 Create the virtual environment
 ```
@@ -18,6 +19,7 @@ Install the requirements
 pip install -r requirements.txt
 ```
 
+## Call main program
 To get help from the main program
 ```
 python main.py --help
